@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.ychat
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-mongodb, http-client, jackson-databind, java, java-application, junit, kafka, kafka-streams, logback, lombok, maven, netty-server, readme, redis-lettuce, security-annotations, security-jwt, shade, test-resources, yaml]
